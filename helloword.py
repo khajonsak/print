@@ -1,2 +1,4 @@
 for i in range(10):
-print("llll5555555")
+print("llll55")
+
+
